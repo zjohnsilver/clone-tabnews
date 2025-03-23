@@ -1,8 +1,9 @@
 {
   "name": "clone-tabnews",
-  "packageManager": "yarn@4.6.0",
+  "license": "MIT",
+  "packageManager": "yarn@4.7.0",
   "volta": {
     "node": "22.14.0",
-    "yarn": "4.6.0"
+    "yarn": "4.7.0"
   }
 }
