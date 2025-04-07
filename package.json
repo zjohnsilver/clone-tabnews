@@ -2,13 +2,13 @@
   "name": "clone-tabnews",
   "license": "MIT",
   "packageManager": "yarn@4.7.0",
-  "volta": {
-    "node": "22.14.0",
-    "yarn": "4.7.0"
-  },
   "dependencies": {
     "next": "15.2.3",
     "react": "19.0.0",
     "react-dom": "19.0.0"
+  },
+  "volta": {
+    "node": "22.14.0",
+    "yarn": "4.7.0"
   }
 }
