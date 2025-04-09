@@ -2,6 +2,9 @@
   "name": "clone-tabnews",
   "license": "MIT",
   "packageManager": "yarn@4.7.0",
+  "scripts": {
+    "dev": "next dev"
+  },
   "dependencies": {
     "next": "15.2.3",
     "react": "19.0.0",
