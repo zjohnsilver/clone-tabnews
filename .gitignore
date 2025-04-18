@@ -1,3 +1,4 @@
+!.yarn/
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
@@ -16,3 +17,4 @@ node_modules
 #!.yarn/cache
 .pnp.*
 .next
+.mypy_cache
